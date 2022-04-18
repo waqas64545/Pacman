@@ -1,0 +1,4 @@
+﻿  Source.cpp
+h:\university\projects\pacman project\pacman project\source.cpp(24): warning C4101: 'show': unreferenced local variable
+h:\university\projects\pacman project\pacman project\source.cpp(99): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Pacman project.vcxproj -> H:\university\projects\Pacman project\Debug\Pacman project.exe
